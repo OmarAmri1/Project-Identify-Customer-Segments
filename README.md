@@ -22,7 +22,7 @@ Identify_Customer_Segments_Project.ipynb
 
 ## Summary of the Results 
 
-The findings of this project can be found on this blog [here](https://commonprogramminglanguages.blogspot.com/b/post-preview?token=APq4FmCvITm6uN7dTKPIcy6natpONy2gSTNWVQn4AdkePk6EciVIsOKk8Qa3kHhtCmQlNpURq3flJ8c3-UVq92Itm51w13773P0VoDvYHX1YFv2vKyMaUSimGnpM0aR-ODe0EJyDxhZg&postId=2633338218511562382&type=POST).
+The findings of this project can be found on this blog [here](https://commonprogramminglanguages.blogspot.com/2020/02/using-machine-learning-to-identify.html).
 
 
 ## Acknowledgments
