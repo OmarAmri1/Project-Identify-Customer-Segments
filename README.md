@@ -28,4 +28,4 @@ The findings of this project can be found on this blog [here](https://commonprog
 ## Acknowledgments
 
 * All the datasets were used belongs to Aravato.
-* Udacity Data Science Nanodegree.
+* Udacity 
